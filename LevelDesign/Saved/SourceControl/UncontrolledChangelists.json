@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/KadlecovaLevelDesign/Kadlecova-G300-Week2/LevelDesign/Content/Maps/Level_Week2.umap",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/KadlecovaLevelDesign/Kadlecova-G300-Week2/LevelDesign/Content/Maps/_GENERATED/valentynakadlecova/Stairs_22DAF093.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/KadlecovaLevelDesign/Kadlecova-G300-Week2/LevelDesign/Content/Maps/_GENERATED/valentynakadlecova/Wall2_A4E05D39.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/KadlecovaLevelDesign/Kadlecova-G300-Week2/LevelDesign/Content/Maps/_GENERATED/valentynakadlecova/Box_CA3E097D.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/KadlecovaLevelDesign/Kadlecova-G300-Week2/LevelDesign/Content/Maps/_GENERATED/valentynakadlecova/Boolean_BE135480.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/KadlecovaLevelDesign/Kadlecova-G300-Week2/LevelDesign/Content/Maps/_GENERATED/valentynakadlecova/Box_36CA998A.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/KadlecovaLevelDesign/Kadlecova-G300-Week2/LevelDesign/Content/Maps/_GENERATED/valentynakadlecova/Boolean_D8BA9330.uasset",
 				"/Users/valentynakadlecova/Desktop/UnrealProjects/KadlecovaLevelDesign/LevelDesign/Content/FirstPerson/Lvl_FirstPerson.umap"
 			]
 		}
